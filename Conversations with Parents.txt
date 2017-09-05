@@ -1,0 +1,5 @@
+Mom: Willow is THIS what you call clean?! Get back up here.
+
+A. Go back upstairs to defend yourself (Neutral)
+B. Go back upstairs to reclean (+100 ParentP)
+C. Leave (-100 ParentA)
