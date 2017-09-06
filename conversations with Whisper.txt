@@ -1,6 +1,22 @@
+
+Whisper: Alright alright. I guess you DO have a point. I will give you a choice then. I have something I'd like 
+for you to do for me. Say yes, and I will free you. Say no, and I leave you here. What do you say, quite the 
+shortcut yes?
+
+Willow: What is the request?
+
+Whisper: Ah sorry, but this game works a little diffrent. I will only tell you if you accept.
+
+A. No
+
+Willow: There's no way I can accept a deal like that.
+
+(whisper smiles)
+
 	[moms favorite birds sits happily on a branch]
 Willow has flashback. Mom always treated the bird better than her own daughter.
 
 Whisper (we don't know yet that this is whisper talking to Willow): Get rid of it
 
 	A. kill the bird (+100 WhisperA -100 ParentsA)
+
