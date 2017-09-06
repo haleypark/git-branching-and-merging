@@ -1,0 +1,10 @@
+Mom: Willow is THIS what you call clean?! Get back up here.
+
+A. Go back upstairs to defend yourself (Neutral)
+B. Go back upstairs to reclean (+100 ParentP)
+C. Leave (-100 ParentA)
+
+Sara: You'll find your way. But will your way take you home? Or will you let the darkness cousume you? I can't
+wait to find out!
+ (if you kill jordan, Sara will reapear as you walk out of that room)
+Sara: So, darkness it is?
